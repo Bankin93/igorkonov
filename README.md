@@ -1,10 +1,10 @@
 <img width="100%" height="auto" src="https://i.imgur.com/iXuL1HG.png" height="175px"/>
 <h1 align="center">Hi 👋, I'm Igor Konov</h1>
-<h3 align="center">I am a studing for Python Developer at SkyPro. I am from the Kaluga region, Obninsk.</h3>
+<h3 align="center">I am a Python Developer from the Kaluga region, Obninsk.</h3>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=igorkonov&label=Profile%20views&color=0e75b6&style=flat" alt="igorkonov" /> </p>
 
-- 🌱 I’m currently learning **Docker, CI/CD**
+
 
 <h3 align="center">Connect with me:</h3>
 <p align="center">
